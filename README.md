@@ -6,9 +6,9 @@ I grew up in Bosnia and Herzegovina and Croatia. Before Northwestern, I attended
 
 ## Previous experience
 
-- Machine Learning Intern at Cohere Health
-- Manufacturing Engineering Intern at Rimac Technology
-- Design Engineering and Quality Control Intern at Bugatti Rimac
+- 🏥 Machine Learning Intern at Cohere Health
+- 🏎️ Manufacturing Engineering Intern at Rimac Technology
+- 🚗 Design Engineering and Quality Control Intern at Bugatti Rimac
 
 ## Interests
 
@@ -16,7 +16,7 @@ I'm interested in machine learning, operations research, manufacturing, data sci
 
 ## Languages
 
-I speak English, Bosnian/Croatian/Serbian, French, Spanish, and German.
+🇬🇧 English · 🇧🇦 🇭🇷 🇷🇸 Bosnian/Croatian/Serbian · 🇫🇷 French · 🇪🇸 Spanish · 🇩🇪 German
 
 ## Links
 
