@@ -1,7 +1,23 @@
 # Tarik Filipovic
 
-I'm studying Industrial Engineering and Management Sciences at Northwestern University and completing the Managerial Analytics Certificate at Kellogg.
+I'm studying Industrial Engineering and Management Sciences at Northwestern University. I'm also completing the Managerial Analytics Certificate at the Kellogg School of Management.
 
-I'm interested in machine learning, operations research, manufacturing, and engineering design. I've previously interned at Cohere Health, Rimac Technology, and Bugatti Rimac.
+I grew up in Bosnia and Herzegovina and Croatia. Before Northwestern, I attended UWC Atlantic College.
 
-Some of my independent projects and drawings are collected on my [portfolio](https://filipovic-tarik.github.io/). You can also find me on [LinkedIn](https://www.linkedin.com/in/tarikfilipovic).
+## Previous experience
+
+- Machine Learning Intern at Cohere Health
+- Manufacturing Engineering Intern at Rimac Technology
+- Design Engineering and Quality Control Intern at Bugatti Rimac
+
+## Interests
+
+I'm interested in machine learning, operations research, manufacturing, data science, quantitative finance, and engineering design. Outside of engineering, I enjoy swimming and drawing cars, aircraft, and other machines.
+
+## Languages
+
+I speak English, Bosnian/Croatian/Serbian, French, Spanish, and German.
+
+## Links
+
+[Portfolio](https://filipovic-tarik.github.io/) · [LinkedIn](https://www.linkedin.com/in/tarikfilipovic)
