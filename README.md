@@ -7,8 +7,8 @@ I grew up in Bosnia and Herzegovina and Croatia. Before Northwestern, I attended
 ## Previous experience
 
 - 🏥 Machine Learning Intern at Cohere Health
-- 🏎️ Manufacturing Engineering Intern at Rimac Technology
-- 🚗 Interior Engineering at Bugatti
+- 🚙 Manufacturing Engineering Intern at Rimac Technology
+- 🏎️ Interior Engineering at Bugatti
 
 ## Interests
 
