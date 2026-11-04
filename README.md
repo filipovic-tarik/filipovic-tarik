@@ -16,7 +16,7 @@ I'm interested in machine learning, operations research, manufacturing, data sci
 
 ## Languages
 
-🇬🇧 English · 🇧🇦 🇭🇷 🇷🇸 Bosnian/Croatian/Serbian · 🇫🇷 French · 🇪🇸 Spanish · 🇩🇪 German
+🇬🇧 English · 🇧🇦 🇭🇷 Bosnian/Croatian · 🇫🇷 French · 🇪🇸 Spanish · 🇩🇪 German
 
 ## Links
 
