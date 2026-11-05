@@ -1,6 +1,6 @@
 # Tarik Filipovic
 
-I'm studying Industrial Engineering and Management Sciences at Northwestern University. I'm also completing the Managerial Analytics Certificate at the Kellogg School of Management.
+I'm studying Industrial Engineering and Mathematics at Northwestern University. I'm also completing the Managerial Analytics Certificate at the Kellogg School of Management.
 
 I grew up in Bosnia and Herzegovina and Croatia. Before Northwestern, I attended UWC Atlantic College where my higher level courses were applied mathematics, physics and economics.
 
